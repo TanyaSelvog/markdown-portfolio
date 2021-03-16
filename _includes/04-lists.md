@@ -1,1 +1,10 @@
-Replace this with a list of your favorite things.
+# Lists 
+
+1. Hamilton
+2. Jefferson
+3. Burr
+
+
+* bananas
+* apples
+* strawberries
